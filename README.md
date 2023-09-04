@@ -1,24 +1,56 @@
-# README
+# Rails + Webpack + React Boilerplate
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to the Rails + Webpack + React Boilerplate. This boilerplate is designed to kickstart your development process and provide a scalable foundation for building modern web applications. It's built using Ruby 3.1.2, Ruby on Rails, Webpack, and React.
 
-Things you may want to cover:
+## 🌟 Features
 
-* Ruby version
+Ruby on Rails (v7.0.7.2) : A powerful, robust back-end framework that streamlines web application development.
 
-* System dependencies
+Webpacker (v5.4): A static module bundler that takes modules with dependencies and generates static assets representing those modules.
 
-* Configuration
+React (v18.2) : A front-end library for building user interfaces in a modular and scalable way.
+## 🚀 Getting Started
 
-* Database creation
+1. Clone the repository bash
 
-* Database initialization
+```bash
+git clone git@github.com:javiermurillo/ror7_webpack5_react_boilerplate.git
+cd ror7_webpack5_react_boilerplate
+```
+2. Install Dependencies
+```bash
+make setup
+# This build the docker image, install the gems, node modules and create the database.
+```
+3. Run the application.
+```bash
+make run
+```
 
-* How to run the test suite
+Visit http://localhost:3000 in your browser.
 
-* Services (job queues, cache servers, search engines, etc.)
+### 🧰 Tooling
 
-* Deployment instructions
+Ruby Version Manager: I recommend using [asdf](https://asdf-vm.com/) to manage your Ruby versions.
 
-* ...
+### 📖 Documentation
+
+[Ruby on Rails](https://rubyonrails.org/)
+[Webpack](https://webpack.js.org/)
+[React](https://reactjs.org/)
+
+### 🔒 Security
+
+Ensure that you keep your application and its dependencies updated. Regularly review the Ruby on Rails security guide and follow best practices.
+
+### 🙌 Contributing
+
+If you'd like to contribute to the boilerplate, please submit a pull request directly to the repository.
+
+### 💡 Feedback and Issues
+
+If you have feedback or issues, please submit an issue on the GitHub repository. We appreciate any contributions and suggestions!
+
+### 📝 License
+
+This project is licensed under the MIT License. (MIT)[https://opensource.org/licenses/MIT]

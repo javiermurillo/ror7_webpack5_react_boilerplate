@@ -9,6 +9,13 @@ services:
       - "3000:3000"
     depends_on:
       - db
+  webpacker:
+    build: .
+    command: ./bin/webpack-dev-server
+    volumes:
+      - .:/app
+    ports:
+      - "3035:3035"
   db:
     image: postgres:13
     volumes:

@@ -22,8 +22,10 @@ COPY . .
 
 # Install Webpacker
 RUN bundle exec rails webpacker:install
-# Install React with Webpacker
+# Install React with
 RUN bundle exec rails webpacker:install:react
+# Install babel plugin
+RUN yarn add @babel/plugin-proposal-private-methods
 
 # Expose port 3000
 EXPOSE 3000

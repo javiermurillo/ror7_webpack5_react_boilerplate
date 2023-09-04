@@ -30,6 +30,13 @@
 !/tmp/storage/.keep
 
 /public/assets
+.idea/*
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Ignore yarn files.
+/node_modules
+/yarn-error.log
+/yarn-debug.log*
+.yarn-integrity

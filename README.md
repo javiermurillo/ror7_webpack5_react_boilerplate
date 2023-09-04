@@ -53,4 +53,4 @@ If you have feedback or issues, please submit an issue on the GitHub repository.
 
 ### 📝 License
 
-This project is licensed under the MIT License. (MIT)[https://opensource.org/licenses/MIT]
+This project is licensed under the MIT License. [MIT](https://opensource.org/licenses/MIT)

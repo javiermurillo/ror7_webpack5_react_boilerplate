@@ -1,6 +1,6 @@
 # Rails + Webpack + React Boilerplate
 
-Welcome to the Rails + Webpack + React Boilerplate. This boilerplate is designed to kickstart your development process and provide a scalable foundation for building modern web applications. It's built using Ruby 3.1.2, Ruby on Rails, Webpack, and React.
+Welcome to the Rails + Webpack + React Boilerplate. This boilerplate is designed to kickstart your development process and provide a scalable foundation for building modern web applications. It's built using Ruby 3.1.2, Ruby on Rails, Webpack, and React
 
 ## 🌟 Features
 

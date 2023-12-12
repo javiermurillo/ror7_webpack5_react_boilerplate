@@ -50,6 +50,7 @@ If you'd like to contribute to the boilerplate, please submit a pull request dir
 ### 💡 Feedback and Issues
 
 If you have feedback or issues, please submit an issue on the GitHub repository. We appreciate any contributions and suggestions!
+,
 
 ### 📝 License
 
